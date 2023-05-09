@@ -2,7 +2,9 @@
 
 source .creds
 #source settings.file
-shutter=15000000 # microseconds
+shutter=10000000 # microseconds
+
+/usr/bin/python3 /home/eyeontheskypi/dawndusk.py
 
 while :
 do
@@ -10,7 +12,7 @@ do
 
   if [[ $(date +%s) < $(($(date -d "$Dawn" +%s) + 84600)) && $(date +%s) > $(date -d "$Dusk" +%s) ]]
   then
-    libcamera-still --shutter $shutter -e png -o images/snapshot.png --width 800 --height 600 --immediate
+    libcamera-still --shutter $shutter -e png -o images/snapshot.png --width 1024 --height 760 --immediate
 
     # Copy the file to the images folder, for processing later
     cp images/snapshot.png images/$(date +%Y%m%d%H%M%S).png
