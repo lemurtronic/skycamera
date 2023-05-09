@@ -4,7 +4,7 @@ import datetime
 city = astral.LocationInfo('Nottingham', 'England', 'Europe/London', 52.55, -1.48) 
 
 from astral.sun import sun
-s = sun(city.observer, date=datetime.datetime.now())
+s = sun(city.observer, date=datetime.datetime.now(), tzinfo='Europe/London')
 f = open("dawndusk.txt", "w")
 f.write((
     f'export Dawn="{s["dawn"]}"\n'
