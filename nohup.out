@@ -93,3 +93,492 @@ Connected to home349728106.1and1-data.host.
 sftp> put video/yesterday.webm
 Uploading video/yesterday.webm to /yesterday.webm
 sftp> bye
+Preview window unavailable
+[0:05:34.618074484] [850] [1;32m INFO [1;37mCamera [1;34mcamera_manager.cpp:299 [0mlibcamera v0.0.4+22-923f5d70
+[0:05:34.653157058] [851] [1;32m INFO [1;37mRPI [1;34mraspberrypi.cpp:1476 [0mRegistered camera /base/soc/i2c0mux/i2c@1/imx477@1a to Unicam device /dev/media4 and ISP device /dev/media1
+Stream configuration adjusted
+[0:05:34.654309650] [850] [1;32m INFO [1;37mCamera [1;34mcamera.cpp:1028 [0mconfiguring streams: (0) 4056x3040-BGR888 (1) 4056x3040-SBGGR12_CSI2P
+[0:05:34.654596632] [851] [1;32m INFO [1;37mRPI [1;34mraspberrypi.cpp:851 [0mSensor: /base/soc/i2c0mux/i2c@1/imx477@1a - Selected sensor format: 4056x3040-SBGGR12_1X12 - Selected unicam format: 4056x3040-pBCC
+Still capture image received
+ssh: connect to host home349728106.1and1-data.host port 22: Network is unreachable
+Connection closed
+Preview window unavailable
+[0:06:05.108122892] [885] [1;32m INFO [1;37mCamera [1;34mcamera_manager.cpp:299 [0mlibcamera v0.0.4+22-923f5d70
+[0:06:05.142689910] [886] [1;32m INFO [1;37mRPI [1;34mraspberrypi.cpp:1476 [0mRegistered camera /base/soc/i2c0mux/i2c@1/imx477@1a to Unicam device /dev/media4 and ISP device /dev/media1
+Stream configuration adjusted
+[0:06:05.143852891] [885] [1;32m INFO [1;37mCamera [1;34mcamera.cpp:1028 [0mconfiguring streams: (0) 4056x3040-BGR888 (1) 4056x3040-SBGGR12_CSI2P
+[0:06:05.144170521] [886] [1;32m INFO [1;37mRPI [1;34mraspberrypi.cpp:851 [0mSensor: /base/soc/i2c0mux/i2c@1/imx477@1a - Selected sensor format: 4056x3040-SBGGR12_1X12 - Selected unicam format: 4056x3040-pBCC
+Still capture image received
+Connected to home349728106.1and1-data.host.
+sftp> put images/current.jpg
+Uploading images/current.jpg to /current.jpg
+sftp> bye
+Preview window unavailable
+[0:06:38.208278705] [923] [1;32m INFO [1;37mCamera [1;34mcamera_manager.cpp:299 [0mlibcamera v0.0.4+22-923f5d70
+[0:06:38.242954927] [924] [1;32m INFO [1;37mRPI [1;34mraspberrypi.cpp:1476 [0mRegistered camera /base/soc/i2c0mux/i2c@1/imx477@1a to Unicam device /dev/media4 and ISP device /dev/media1
+Stream configuration adjusted
+[0:06:38.244163279] [923] [1;32m INFO [1;37mCamera [1;34mcamera.cpp:1028 [0mconfiguring streams: (0) 4056x3040-BGR888 (1) 4056x3040-SBGGR12_CSI2P
+[0:06:38.244453520] [924] [1;32m INFO [1;37mRPI [1;34mraspberrypi.cpp:851 [0mSensor: /base/soc/i2c0mux/i2c@1/imx477@1a - Selected sensor format: 4056x3040-SBGGR12_1X12 - Selected unicam format: 4056x3040-pBCC
+Still capture image received
+Connected to home349728106.1and1-data.host.
+sftp> put images/current.jpg
+Uploading images/current.jpg to /current.jpg
+sftp> bye
+Preview window unavailable
+[0:07:10.342871982] [945] [1;32m INFO [1;37mCamera [1;34mcamera_manager.cpp:299 [0mlibcamera v0.0.4+22-923f5d70
+[0:07:10.377881371] [946] [1;32m INFO [1;37mRPI [1;34mraspberrypi.cpp:1476 [0mRegistered camera /base/soc/i2c0mux/i2c@1/imx477@1a to Unicam device /dev/media4 and ISP device /dev/media1
+Stream configuration adjusted
+[0:07:10.379026482] [945] [1;32m INFO [1;37mCamera [1;34mcamera.cpp:1028 [0mconfiguring streams: (0) 4056x3040-BGR888 (1) 4056x3040-SBGGR12_CSI2P
+[0:07:10.379313316] [946] [1;32m INFO [1;37mRPI [1;34mraspberrypi.cpp:851 [0mSensor: /base/soc/i2c0mux/i2c@1/imx477@1a - Selected sensor format: 4056x3040-SBGGR12_1X12 - Selected unicam format: 4056x3040-pBCC
+Still capture image received
+Connected to home349728106.1and1-data.host.
+sftp> put images/current.jpg
+Uploading images/current.jpg to /current.jpg
+sftp> bye
+Preview window unavailable
+[0:07:42.774465153] [972] [1;32m INFO [1;37mCamera [1;34mcamera_manager.cpp:299 [0mlibcamera v0.0.4+22-923f5d70
+[0:07:42.809529229] [973] [1;32m INFO [1;37mRPI [1;34mraspberrypi.cpp:1476 [0mRegistered camera /base/soc/i2c0mux/i2c@1/imx477@1a to Unicam device /dev/media4 and ISP device /dev/media1
+Stream configuration adjusted
+[0:07:42.810681021] [972] [1;32m INFO [1;37mCamera [1;34mcamera.cpp:1028 [0mconfiguring streams: (0) 4056x3040-BGR888 (1) 4056x3040-SBGGR12_CSI2P
+[0:07:42.810967127] [973] [1;32m INFO [1;37mRPI [1;34mraspberrypi.cpp:851 [0mSensor: /base/soc/i2c0mux/i2c@1/imx477@1a - Selected sensor format: 4056x3040-SBGGR12_1X12 - Selected unicam format: 4056x3040-pBCC
+Still capture image received
+Connected to home349728106.1and1-data.host.
+sftp> put images/current.jpg
+Uploading images/current.jpg to /current.jpg
+sftp> bye
+Preview window unavailable
+[0:08:15.425993069] [997] [1;32m INFO [1;37mCamera [1;34mcamera_manager.cpp:299 [0mlibcamera v0.0.4+22-923f5d70
+[0:08:15.460593950] [998] [1;32m INFO [1;37mRPI [1;34mraspberrypi.cpp:1476 [0mRegistered camera /base/soc/i2c0mux/i2c@1/imx477@1a to Unicam device /dev/media4 and ISP device /dev/media1
+Stream configuration adjusted
+[0:08:15.461750947] [997] [1;32m INFO [1;37mCamera [1;34mcamera.cpp:1028 [0mconfiguring streams: (0) 4056x3040-BGR888 (1) 4056x3040-SBGGR12_CSI2P
+[0:08:15.462039261] [998] [1;32m INFO [1;37mRPI [1;34mraspberrypi.cpp:851 [0mSensor: /base/soc/i2c0mux/i2c@1/imx477@1a - Selected sensor format: 4056x3040-SBGGR12_1X12 - Selected unicam format: 4056x3040-pBCC
+Still capture image received
+Connected to home349728106.1and1-data.host.
+sftp> put images/current.jpg
+Uploading images/current.jpg to /current.jpg
+sftp> bye
+Preview window unavailable
+[0:08:47.794897527] [1019] [1;32m INFO [1;37mCamera [1;34mcamera_manager.cpp:299 [0mlibcamera v0.0.4+22-923f5d70
+[0:08:47.829870804] [1020] [1;32m INFO [1;37mRPI [1;34mraspberrypi.cpp:1476 [0mRegistered camera /base/soc/i2c0mux/i2c@1/imx477@1a to Unicam device /dev/media4 and ISP device /dev/media1
+Stream configuration adjusted
+[0:08:47.831022673] [1019] [1;32m INFO [1;37mCamera [1;34mcamera.cpp:1028 [0mconfiguring streams: (0) 4056x3040-BGR888 (1) 4056x3040-SBGGR12_CSI2P
+[0:08:47.831302654] [1020] [1;32m INFO [1;37mRPI [1;34mraspberrypi.cpp:851 [0mSensor: /base/soc/i2c0mux/i2c@1/imx477@1a - Selected sensor format: 4056x3040-SBGGR12_1X12 - Selected unicam format: 4056x3040-pBCC
+Still capture image received
+Connected to home349728106.1and1-data.host.
+sftp> put images/current.jpg
+Uploading images/current.jpg to /current.jpg
+sftp> bye
+Preview window unavailable
+[0:09:20.287278342] [1041] [1;32m INFO [1;37mCamera [1;34mcamera_manager.cpp:299 [0mlibcamera v0.0.4+22-923f5d70
+[0:09:20.322125124] [1042] [1;32m INFO [1;37mRPI [1;34mraspberrypi.cpp:1476 [0mRegistered camera /base/soc/i2c0mux/i2c@1/imx477@1a to Unicam device /dev/media4 and ISP device /dev/media1
+Stream configuration adjusted
+[0:09:20.323285960] [1041] [1;32m INFO [1;37mCamera [1;34mcamera.cpp:1028 [0mconfiguring streams: (0) 4056x3040-BGR888 (1) 4056x3040-SBGGR12_CSI2P
+[0:09:20.323571785] [1042] [1;32m INFO [1;37mRPI [1;34mraspberrypi.cpp:851 [0mSensor: /base/soc/i2c0mux/i2c@1/imx477@1a - Selected sensor format: 4056x3040-SBGGR12_1X12 - Selected unicam format: 4056x3040-pBCC
+Still capture image received
+Connected to home349728106.1and1-data.host.
+sftp> put images/current.jpg
+Uploading images/current.jpg to /current.jpg
+sftp> bye
+Preview window unavailable
+[0:09:52.877817828] [1063] [1;32m INFO [1;37mCamera [1;34mcamera_manager.cpp:299 [0mlibcamera v0.0.4+22-923f5d70
+[0:09:52.913106461] [1064] [1;32m INFO [1;37mRPI [1;34mraspberrypi.cpp:1476 [0mRegistered camera /base/soc/i2c0mux/i2c@1/imx477@1a to Unicam device /dev/media4 and ISP device /dev/media1
+Stream configuration adjusted
+[0:09:52.914293718] [1063] [1;32m INFO [1;37mCamera [1;34mcamera.cpp:1028 [0mconfiguring streams: (0) 4056x3040-BGR888 (1) 4056x3040-SBGGR12_CSI2P
+[0:09:52.914577936] [1064] [1;32m INFO [1;37mRPI [1;34mraspberrypi.cpp:851 [0mSensor: /base/soc/i2c0mux/i2c@1/imx477@1a - Selected sensor format: 4056x3040-SBGGR12_1X12 - Selected unicam format: 4056x3040-pBCC
+Still capture image received
+Connected to home349728106.1and1-data.host.
+sftp> put images/current.jpg
+Uploading images/current.jpg to /current.jpg
+sftp> bye
+Preview window unavailable
+[0:10:25.268827663] [1085] [1;32m INFO [1;37mCamera [1;34mcamera_manager.cpp:299 [0mlibcamera v0.0.4+22-923f5d70
+[0:10:25.303392560] [1086] [1;32m INFO [1;37mRPI [1;34mraspberrypi.cpp:1476 [0mRegistered camera /base/soc/i2c0mux/i2c@1/imx477@1a to Unicam device /dev/media4 and ISP device /dev/media1
+Stream configuration adjusted
+[0:10:25.304577267] [1085] [1;32m INFO [1;37mCamera [1;34mcamera.cpp:1028 [0mconfiguring streams: (0) 4056x3040-BGR888 (1) 4056x3040-SBGGR12_CSI2P
+[0:10:25.304865301] [1086] [1;32m INFO [1;37mRPI [1;34mraspberrypi.cpp:851 [0mSensor: /base/soc/i2c0mux/i2c@1/imx477@1a - Selected sensor format: 4056x3040-SBGGR12_1X12 - Selected unicam format: 4056x3040-pBCC
+Still capture image received
+Connected to home349728106.1and1-data.host.
+sftp> put images/current.jpg
+Uploading images/current.jpg to /current.jpg
+sftp> bye
+Preview window unavailable
+[0:10:57.523101149] [1112] [1;32m INFO [1;37mCamera [1;34mcamera_manager.cpp:299 [0mlibcamera v0.0.4+22-923f5d70
+[0:10:57.557751667] [1113] [1;32m INFO [1;37mRPI [1;34mraspberrypi.cpp:1476 [0mRegistered camera /base/soc/i2c0mux/i2c@1/imx477@1a to Unicam device /dev/media4 and ISP device /dev/media1
+Stream configuration adjusted
+[0:10:57.558919528] [1112] [1;32m INFO [1;37mCamera [1;34mcamera.cpp:1028 [0mconfiguring streams: (0) 4056x3040-BGR888 (1) 4056x3040-SBGGR12_CSI2P
+[0:10:57.559212502] [1113] [1;32m INFO [1;37mRPI [1;34mraspberrypi.cpp:851 [0mSensor: /base/soc/i2c0mux/i2c@1/imx477@1a - Selected sensor format: 4056x3040-SBGGR12_1X12 - Selected unicam format: 4056x3040-pBCC
+Still capture image received
+Connected to home349728106.1and1-data.host.
+sftp> put images/current.jpg
+Uploading images/current.jpg to /current.jpg
+sftp> bye
+Preview window unavailable
+[0:11:29.821202668] [1135] [1;32m INFO [1;37mCamera [1;34mcamera_manager.cpp:299 [0mlibcamera v0.0.4+22-923f5d70
+[0:11:29.855966920] [1136] [1;32m INFO [1;37mRPI [1;34mraspberrypi.cpp:1476 [0mRegistered camera /base/soc/i2c0mux/i2c@1/imx477@1a to Unicam device /dev/media4 and ISP device /dev/media1
+Stream configuration adjusted
+[0:11:29.857141465] [1135] [1;32m INFO [1;37mCamera [1;34mcamera.cpp:1028 [0mconfiguring streams: (0) 4056x3040-BGR888 (1) 4056x3040-SBGGR12_CSI2P
+[0:11:29.857427860] [1136] [1;32m INFO [1;37mRPI [1;34mraspberrypi.cpp:851 [0mSensor: /base/soc/i2c0mux/i2c@1/imx477@1a - Selected sensor format: 4056x3040-SBGGR12_1X12 - Selected unicam format: 4056x3040-pBCC
+Still capture image received
+Connected to home349728106.1and1-data.host.
+sftp> put images/current.jpg
+Uploading images/current.jpg to /current.jpg
+sftp> bye
+Preview window unavailable
+[0:12:02.005745367] [1158] [1;32m INFO [1;37mCamera [1;34mcamera_manager.cpp:299 [0mlibcamera v0.0.4+22-923f5d70
+[0:12:02.040484004] [1159] [1;32m INFO [1;37mRPI [1;34mraspberrypi.cpp:1476 [0mRegistered camera /base/soc/i2c0mux/i2c@1/imx477@1a to Unicam device /dev/media4 and ISP device /dev/media1
+Stream configuration adjusted
+[0:12:02.041623499] [1158] [1;32m INFO [1;37mCamera [1;34mcamera.cpp:1028 [0mconfiguring streams: (0) 4056x3040-BGR888 (1) 4056x3040-SBGGR12_CSI2P
+[0:12:02.041910354] [1159] [1;32m INFO [1;37mRPI [1;34mraspberrypi.cpp:851 [0mSensor: /base/soc/i2c0mux/i2c@1/imx477@1a - Selected sensor format: 4056x3040-SBGGR12_1X12 - Selected unicam format: 4056x3040-pBCC
+Still capture image received
+Connected to home349728106.1and1-data.host.
+sftp> put images/current.jpg
+Uploading images/current.jpg to /current.jpg
+sftp> bye
+Preview window unavailable
+[0:12:34.612250898] [1181] [1;32m INFO [1;37mCamera [1;34mcamera_manager.cpp:299 [0mlibcamera v0.0.4+22-923f5d70
+[0:12:34.647071392] [1182] [1;32m INFO [1;37mRPI [1;34mraspberrypi.cpp:1476 [0mRegistered camera /base/soc/i2c0mux/i2c@1/imx477@1a to Unicam device /dev/media4 and ISP device /dev/media1
+Stream configuration adjusted
+[0:12:34.648278048] [1181] [1;32m INFO [1;37mCamera [1;34mcamera.cpp:1028 [0mconfiguring streams: (0) 4056x3040-BGR888 (1) 4056x3040-SBGGR12_CSI2P
+[0:12:34.648560290] [1182] [1;32m INFO [1;37mRPI [1;34mraspberrypi.cpp:851 [0mSensor: /base/soc/i2c0mux/i2c@1/imx477@1a - Selected sensor format: 4056x3040-SBGGR12_1X12 - Selected unicam format: 4056x3040-pBCC
+Still capture image received
+Connected to home349728106.1and1-data.host.
+sftp> put images/current.jpg
+Uploading images/current.jpg to /current.jpg
+sftp> bye
+Preview window unavailable
+[0:13:07.151491842] [1203] [1;32m INFO [1;37mCamera [1;34mcamera_manager.cpp:299 [0mlibcamera v0.0.4+22-923f5d70
+[0:13:07.186475411] [1204] [1;32m INFO [1;37mRPI [1;34mraspberrypi.cpp:1476 [0mRegistered camera /base/soc/i2c0mux/i2c@1/imx477@1a to Unicam device /dev/media4 and ISP device /dev/media1
+Stream configuration adjusted
+[0:13:07.187614061] [1203] [1;32m INFO [1;37mCamera [1;34mcamera.cpp:1028 [0mconfiguring streams: (0) 4056x3040-BGR888 (1) 4056x3040-SBGGR12_CSI2P
+[0:13:07.187908543] [1204] [1;32m INFO [1;37mRPI [1;34mraspberrypi.cpp:851 [0mSensor: /base/soc/i2c0mux/i2c@1/imx477@1a - Selected sensor format: 4056x3040-SBGGR12_1X12 - Selected unicam format: 4056x3040-pBCC
+Still capture image received
+Connected to home349728106.1and1-data.host.
+sftp> put images/current.jpg
+Uploading images/current.jpg to /current.jpg
+sftp> bye
+Preview window unavailable
+[0:13:39.640787879] [1226] [1;32m INFO [1;37mCamera [1;34mcamera_manager.cpp:299 [0mlibcamera v0.0.4+22-923f5d70
+[0:13:39.675374038] [1227] [1;32m INFO [1;37mRPI [1;34mraspberrypi.cpp:1476 [0mRegistered camera /base/soc/i2c0mux/i2c@1/imx477@1a to Unicam device /dev/media4 and ISP device /dev/media1
+Stream configuration adjusted
+[0:13:39.676568538] [1226] [1;32m INFO [1;37mCamera [1;34mcamera.cpp:1028 [0mconfiguring streams: (0) 4056x3040-BGR888 (1) 4056x3040-SBGGR12_CSI2P
+[0:13:39.676867316] [1227] [1;32m INFO [1;37mRPI [1;34mraspberrypi.cpp:851 [0mSensor: /base/soc/i2c0mux/i2c@1/imx477@1a - Selected sensor format: 4056x3040-SBGGR12_1X12 - Selected unicam format: 4056x3040-pBCC
+Still capture image received
+Connected to home349728106.1and1-data.host.
+sftp> put images/current.jpg
+Uploading images/current.jpg to /current.jpg
+sftp> bye
+Preview window unavailable
+[0:14:12.288323531] [1248] [1;32m INFO [1;37mCamera [1;34mcamera_manager.cpp:299 [0mlibcamera v0.0.4+22-923f5d70
+[0:14:12.323127218] [1249] [1;32m INFO [1;37mRPI [1;34mraspberrypi.cpp:1476 [0mRegistered camera /base/soc/i2c0mux/i2c@1/imx477@1a to Unicam device /dev/media4 and ISP device /dev/media1
+Stream configuration adjusted
+[0:14:12.324340623] [1248] [1;32m INFO [1;37mCamera [1;34mcamera.cpp:1028 [0mconfiguring streams: (0) 4056x3040-BGR888 (1) 4056x3040-SBGGR12_CSI2P
+[0:14:12.324639104] [1249] [1;32m INFO [1;37mRPI [1;34mraspberrypi.cpp:851 [0mSensor: /base/soc/i2c0mux/i2c@1/imx477@1a - Selected sensor format: 4056x3040-SBGGR12_1X12 - Selected unicam format: 4056x3040-pBCC
+Still capture image received
+Connected to home349728106.1and1-data.host.
+sftp> put images/current.jpg
+Uploading images/current.jpg to /current.jpg
+sftp> bye
+Preview window unavailable
+[0:14:45.451122475] [1270] [1;32m INFO [1;37mCamera [1;34mcamera_manager.cpp:299 [0mlibcamera v0.0.4+22-923f5d70
+[0:14:45.485752060] [1271] [1;32m INFO [1;37mRPI [1;34mraspberrypi.cpp:1476 [0mRegistered camera /base/soc/i2c0mux/i2c@1/imx477@1a to Unicam device /dev/media4 and ISP device /dev/media1
+Stream configuration adjusted
+[0:14:45.486899668] [1270] [1;32m INFO [1;37mCamera [1;34mcamera.cpp:1028 [0mconfiguring streams: (0) 4056x3040-BGR888 (1) 4056x3040-SBGGR12_CSI2P
+[0:14:45.487223593] [1271] [1;32m INFO [1;37mRPI [1;34mraspberrypi.cpp:851 [0mSensor: /base/soc/i2c0mux/i2c@1/imx477@1a - Selected sensor format: 4056x3040-SBGGR12_1X12 - Selected unicam format: 4056x3040-pBCC
+Still capture image received
+Connected to home349728106.1and1-data.host.
+sftp> put images/current.jpg
+Uploading images/current.jpg to /current.jpg
+sftp> bye
+Preview window unavailable
+[0:15:17.928853591] [1292] [1;32m INFO [1;37mCamera [1;34mcamera_manager.cpp:299 [0mlibcamera v0.0.4+22-923f5d70
+[0:15:17.963014281] [1293] [1;32m INFO [1;37mRPI [1;34mraspberrypi.cpp:1476 [0mRegistered camera /base/soc/i2c0mux/i2c@1/imx477@1a to Unicam device /dev/media4 and ISP device /dev/media1
+Stream configuration adjusted
+[0:15:17.964198397] [1292] [1;32m INFO [1;37mCamera [1;34mcamera.cpp:1028 [0mconfiguring streams: (0) 4056x3040-BGR888 (1) 4056x3040-SBGGR12_CSI2P
+[0:15:17.964504680] [1293] [1;32m INFO [1;37mRPI [1;34mraspberrypi.cpp:851 [0mSensor: /base/soc/i2c0mux/i2c@1/imx477@1a - Selected sensor format: 4056x3040-SBGGR12_1X12 - Selected unicam format: 4056x3040-pBCC
+Still capture image received
+Connected to home349728106.1and1-data.host.
+sftp> put images/current.jpg
+Uploading images/current.jpg to /current.jpg
+sftp> bye
+Preview window unavailable
+[0:15:50.273869105] [1317] [1;32m INFO [1;37mCamera [1;34mcamera_manager.cpp:299 [0mlibcamera v0.0.4+22-923f5d70
+[0:15:50.308858869] [1318] [1;32m INFO [1;37mRPI [1;34mraspberrypi.cpp:1476 [0mRegistered camera /base/soc/i2c0mux/i2c@1/imx477@1a to Unicam device /dev/media4 and ISP device /dev/media1
+Stream configuration adjusted
+[0:15:50.310036420] [1317] [1;32m INFO [1;37mCamera [1;34mcamera.cpp:1028 [0mconfiguring streams: (0) 4056x3040-BGR888 (1) 4056x3040-SBGGR12_CSI2P
+[0:15:50.310321225] [1318] [1;32m INFO [1;37mRPI [1;34mraspberrypi.cpp:851 [0mSensor: /base/soc/i2c0mux/i2c@1/imx477@1a - Selected sensor format: 4056x3040-SBGGR12_1X12 - Selected unicam format: 4056x3040-pBCC
+Still capture image received
+Connected to home349728106.1and1-data.host.
+sftp> put images/current.jpg
+Uploading images/current.jpg to /current.jpg
+sftp> bye
+Preview window unavailable
+[0:16:22.864509645] [1341] [1;32m INFO [1;37mCamera [1;34mcamera_manager.cpp:299 [0mlibcamera v0.0.4+22-923f5d70
+[0:16:22.899521580] [1342] [1;32m INFO [1;37mRPI [1;34mraspberrypi.cpp:1476 [0mRegistered camera /base/soc/i2c0mux/i2c@1/imx477@1a to Unicam device /dev/media4 and ISP device /dev/media1
+Stream configuration adjusted
+[0:16:22.900724896] [1341] [1;32m INFO [1;37mCamera [1;34mcamera.cpp:1028 [0mconfiguring streams: (0) 4056x3040-BGR888 (1) 4056x3040-SBGGR12_CSI2P
+[0:16:22.901013091] [1342] [1;32m INFO [1;37mRPI [1;34mraspberrypi.cpp:851 [0mSensor: /base/soc/i2c0mux/i2c@1/imx477@1a - Selected sensor format: 4056x3040-SBGGR12_1X12 - Selected unicam format: 4056x3040-pBCC
+Still capture image received
+Connected to home349728106.1and1-data.host.
+sftp> put images/current.jpg
+Uploading images/current.jpg to /current.jpg
+sftp> bye
+Preview window unavailable
+[0:16:55.357816735] [1364] [1;32m INFO [1;37mCamera [1;34mcamera_manager.cpp:299 [0mlibcamera v0.0.4+22-923f5d70
+[0:16:55.392828188] [1365] [1;32m INFO [1;37mRPI [1;34mraspberrypi.cpp:1476 [0mRegistered camera /base/soc/i2c0mux/i2c@1/imx477@1a to Unicam device /dev/media4 and ISP device /dev/media1
+Stream configuration adjusted
+[0:16:55.394008678] [1364] [1;32m INFO [1;37mCamera [1;34mcamera.cpp:1028 [0mconfiguring streams: (0) 4056x3040-BGR888 (1) 4056x3040-SBGGR12_CSI2P
+[0:16:55.394294541] [1365] [1;32m INFO [1;37mRPI [1;34mraspberrypi.cpp:851 [0mSensor: /base/soc/i2c0mux/i2c@1/imx477@1a - Selected sensor format: 4056x3040-SBGGR12_1X12 - Selected unicam format: 4056x3040-pBCC
+Still capture image received
+Connected to home349728106.1and1-data.host.
+sftp> put images/current.jpg
+Uploading images/current.jpg to /current.jpg
+sftp> bye
+Preview window unavailable
+[0:17:27.950087555] [1386] [1;32m INFO [1;37mCamera [1;34mcamera_manager.cpp:299 [0mlibcamera v0.0.4+22-923f5d70
+[0:17:27.985257704] [1387] [1;32m INFO [1;37mRPI [1;34mraspberrypi.cpp:1476 [0mRegistered camera /base/soc/i2c0mux/i2c@1/imx477@1a to Unicam device /dev/media4 and ISP device /dev/media1
+Stream configuration adjusted
+[0:17:27.986412568] [1386] [1;32m INFO [1;37mCamera [1;34mcamera.cpp:1028 [0mconfiguring streams: (0) 4056x3040-BGR888 (1) 4056x3040-SBGGR12_CSI2P
+[0:17:27.986700377] [1387] [1;32m INFO [1;37mRPI [1;34mraspberrypi.cpp:851 [0mSensor: /base/soc/i2c0mux/i2c@1/imx477@1a - Selected sensor format: 4056x3040-SBGGR12_1X12 - Selected unicam format: 4056x3040-pBCC
+Still capture image received
+Connected to home349728106.1and1-data.host.
+sftp> put images/current.jpg
+Uploading images/current.jpg to /current.jpg
+sftp> bye
+Preview window unavailable
+[0:18:00.391776906] [1408] [1;32m INFO [1;37mCamera [1;34mcamera_manager.cpp:299 [0mlibcamera v0.0.4+22-923f5d70
+[0:18:00.426336370] [1409] [1;32m INFO [1;37mRPI [1;34mraspberrypi.cpp:1476 [0mRegistered camera /base/soc/i2c0mux/i2c@1/imx477@1a to Unicam device /dev/media4 and ISP device /dev/media1
+Stream configuration adjusted
+[0:18:00.427487423] [1408] [1;32m INFO [1;37mCamera [1;34mcamera.cpp:1028 [0mconfiguring streams: (0) 4056x3040-BGR888 (1) 4056x3040-SBGGR12_CSI2P
+[0:18:00.427773140] [1409] [1;32m INFO [1;37mRPI [1;34mraspberrypi.cpp:851 [0mSensor: /base/soc/i2c0mux/i2c@1/imx477@1a - Selected sensor format: 4056x3040-SBGGR12_1X12 - Selected unicam format: 4056x3040-pBCC
+Still capture image received
+Connected to home349728106.1and1-data.host.
+sftp> put images/current.jpg
+Uploading images/current.jpg to /current.jpg
+sftp> bye
+Preview window unavailable
+[0:18:32.850653569] [1432] [1;32m INFO [1;37mCamera [1;34mcamera_manager.cpp:299 [0mlibcamera v0.0.4+22-923f5d70
+[0:18:32.885256254] [1433] [1;32m INFO [1;37mRPI [1;34mraspberrypi.cpp:1476 [0mRegistered camera /base/soc/i2c0mux/i2c@1/imx477@1a to Unicam device /dev/media4 and ISP device /dev/media1
+Stream configuration adjusted
+[0:18:32.886382292] [1432] [1;32m INFO [1;37mCamera [1;34mcamera.cpp:1028 [0mconfiguring streams: (0) 4056x3040-BGR888 (1) 4056x3040-SBGGR12_CSI2P
+[0:18:32.886671398] [1433] [1;32m INFO [1;37mRPI [1;34mraspberrypi.cpp:851 [0mSensor: /base/soc/i2c0mux/i2c@1/imx477@1a - Selected sensor format: 4056x3040-SBGGR12_1X12 - Selected unicam format: 4056x3040-pBCC
+Still capture image received
+Connected to home349728106.1and1-data.host.
+sftp> put images/current.jpg
+Uploading images/current.jpg to /current.jpg
+sftp> bye
+Preview window unavailable
+[0:19:05.319101452] [1455] [1;32m INFO [1;37mCamera [1;34mcamera_manager.cpp:299 [0mlibcamera v0.0.4+22-923f5d70
+[0:19:05.353820602] [1456] [1;32m INFO [1;37mRPI [1;34mraspberrypi.cpp:1476 [0mRegistered camera /base/soc/i2c0mux/i2c@1/imx477@1a to Unicam device /dev/media4 and ISP device /dev/media1
+Stream configuration adjusted
+[0:19:05.354946734] [1455] [1;32m INFO [1;37mCamera [1;34mcamera.cpp:1028 [0mconfiguring streams: (0) 4056x3040-BGR888 (1) 4056x3040-SBGGR12_CSI2P
+[0:19:05.355230989] [1456] [1;32m INFO [1;37mRPI [1;34mraspberrypi.cpp:851 [0mSensor: /base/soc/i2c0mux/i2c@1/imx477@1a - Selected sensor format: 4056x3040-SBGGR12_1X12 - Selected unicam format: 4056x3040-pBCC
+Still capture image received
+Connected to home349728106.1and1-data.host.
+sftp> put images/current.jpg
+Uploading images/current.jpg to /current.jpg
+sftp> bye
+Preview window unavailable
+[0:19:37.744068294] [1477] [1;32m INFO [1;37mCamera [1;34mcamera_manager.cpp:299 [0mlibcamera v0.0.4+22-923f5d70
+[0:19:37.778776638] [1478] [1;32m INFO [1;37mRPI [1;34mraspberrypi.cpp:1476 [0mRegistered camera /base/soc/i2c0mux/i2c@1/imx477@1a to Unicam device /dev/media4 and ISP device /dev/media1
+Stream configuration adjusted
+[0:19:37.779953493] [1477] [1;32m INFO [1;37mCamera [1;34mcamera.cpp:1028 [0mconfiguring streams: (0) 4056x3040-BGR888 (1) 4056x3040-SBGGR12_CSI2P
+[0:19:37.780400450] [1478] [1;32m INFO [1;37mRPI [1;34mraspberrypi.cpp:851 [0mSensor: /base/soc/i2c0mux/i2c@1/imx477@1a - Selected sensor format: 4056x3040-SBGGR12_1X12 - Selected unicam format: 4056x3040-pBCC
+Still capture image received
+Connected to home349728106.1and1-data.host.
+sftp> put images/current.jpg
+Uploading images/current.jpg to /current.jpg
+sftp> bye
+Preview window unavailable
+[0:20:10.158554337] [1499] [1;32m INFO [1;37mCamera [1;34mcamera_manager.cpp:299 [0mlibcamera v0.0.4+22-923f5d70
+[0:20:10.193573639] [1500] [1;32m INFO [1;37mRPI [1;34mraspberrypi.cpp:1476 [0mRegistered camera /base/soc/i2c0mux/i2c@1/imx477@1a to Unicam device /dev/media4 and ISP device /dev/media1
+Stream configuration adjusted
+[0:20:10.194738847] [1499] [1;32m INFO [1;37mCamera [1;34mcamera.cpp:1028 [0mconfiguring streams: (0) 4056x3040-BGR888 (1) 4056x3040-SBGGR12_CSI2P
+[0:20:10.195025084] [1500] [1;32m INFO [1;37mRPI [1;34mraspberrypi.cpp:851 [0mSensor: /base/soc/i2c0mux/i2c@1/imx477@1a - Selected sensor format: 4056x3040-SBGGR12_1X12 - Selected unicam format: 4056x3040-pBCC
+Still capture image received
+Connected to home349728106.1and1-data.host.
+sftp> put images/current.jpg
+Uploading images/current.jpg to /current.jpg
+sftp> bye
+Preview window unavailable
+[0:20:42.749745392] [1521] [1;32m INFO [1;37mCamera [1;34mcamera_manager.cpp:299 [0mlibcamera v0.0.4+22-923f5d70
+[0:20:42.784481280] [1522] [1;32m INFO [1;37mRPI [1;34mraspberrypi.cpp:1476 [0mRegistered camera /base/soc/i2c0mux/i2c@1/imx477@1a to Unicam device /dev/media4 and ISP device /dev/media1
+Stream configuration adjusted
+[0:20:42.785633267] [1521] [1;32m INFO [1;37mCamera [1;34mcamera.cpp:1028 [0mconfiguring streams: (0) 4056x3040-BGR888 (1) 4056x3040-SBGGR12_CSI2P
+[0:20:42.785914134] [1522] [1;32m INFO [1;37mRPI [1;34mraspberrypi.cpp:851 [0mSensor: /base/soc/i2c0mux/i2c@1/imx477@1a - Selected sensor format: 4056x3040-SBGGR12_1X12 - Selected unicam format: 4056x3040-pBCC
+Still capture image received
+Connected to home349728106.1and1-data.host.
+sftp> put images/current.jpg
+Uploading images/current.jpg to /current.jpg
+sftp> bye
+Preview window unavailable
+[0:21:20.638383806] [1546] [1;32m INFO [1;37mCamera [1;34mcamera_manager.cpp:299 [0mlibcamera v0.0.4+22-923f5d70
+[0:21:20.673414900] [1547] [1;32m INFO [1;37mRPI [1;34mraspberrypi.cpp:1476 [0mRegistered camera /base/soc/i2c0mux/i2c@1/imx477@1a to Unicam device /dev/media4 and ISP device /dev/media1
+Stream configuration adjusted
+[0:21:20.674581777] [1546] [1;32m INFO [1;37mCamera [1;34mcamera.cpp:1028 [0mconfiguring streams: (0) 4056x3040-BGR888 (1) 4056x3040-SBGGR12_CSI2P
+[0:21:20.674863718] [1547] [1;32m INFO [1;37mRPI [1;34mraspberrypi.cpp:851 [0mSensor: /base/soc/i2c0mux/i2c@1/imx477@1a - Selected sensor format: 4056x3040-SBGGR12_1X12 - Selected unicam format: 4056x3040-pBCC
+Still capture image received
+Connected to home349728106.1and1-data.host.
+sftp> put images/current.jpg
+Uploading images/current.jpg to /current.jpg
+sftp> bye
+Preview window unavailable
+[0:21:53.121322759] [1568] [1;32m INFO [1;37mCamera [1;34mcamera_manager.cpp:299 [0mlibcamera v0.0.4+22-923f5d70
+[0:21:53.155895429] [1569] [1;32m INFO [1;37mRPI [1;34mraspberrypi.cpp:1476 [0mRegistered camera /base/soc/i2c0mux/i2c@1/imx477@1a to Unicam device /dev/media4 and ISP device /dev/media1
+Stream configuration adjusted
+[0:21:53.157074825] [1568] [1;32m INFO [1;37mCamera [1;34mcamera.cpp:1028 [0mconfiguring streams: (0) 4056x3040-BGR888 (1) 4056x3040-SBGGR12_CSI2P
+[0:21:53.157361155] [1569] [1;32m INFO [1;37mRPI [1;34mraspberrypi.cpp:851 [0mSensor: /base/soc/i2c0mux/i2c@1/imx477@1a - Selected sensor format: 4056x3040-SBGGR12_1X12 - Selected unicam format: 4056x3040-pBCC
+Still capture image received
+Connected to home349728106.1and1-data.host.
+sftp> put images/current.jpg
+Uploading images/current.jpg to /current.jpg
+sftp> bye
+Preview window unavailable
+[0:22:25.599854366] [1591] [1;32m INFO [1;37mCamera [1;34mcamera_manager.cpp:299 [0mlibcamera v0.0.4+22-923f5d70
+[0:22:25.633934090] [1592] [1;32m INFO [1;37mRPI [1;34mraspberrypi.cpp:1476 [0mRegistered camera /base/soc/i2c0mux/i2c@1/imx477@1a to Unicam device /dev/media4 and ISP device /dev/media1
+Stream configuration adjusted
+[0:22:25.635110375] [1591] [1;32m INFO [1;37mCamera [1;34mcamera.cpp:1028 [0mconfiguring streams: (0) 4056x3040-BGR888 (1) 4056x3040-SBGGR12_CSI2P
+[0:22:25.635397205] [1592] [1;32m INFO [1;37mRPI [1;34mraspberrypi.cpp:851 [0mSensor: /base/soc/i2c0mux/i2c@1/imx477@1a - Selected sensor format: 4056x3040-SBGGR12_1X12 - Selected unicam format: 4056x3040-pBCC
+Still capture image received
+Connected to home349728106.1and1-data.host.
+sftp> put images/current.jpg
+Uploading images/current.jpg to /current.jpg
+sftp> bye
+Preview window unavailable
+[0:22:58.322695017] [1615] [1;32m INFO [1;37mCamera [1;34mcamera_manager.cpp:299 [0mlibcamera v0.0.4+22-923f5d70
+[0:22:58.357497910] [1616] [1;32m INFO [1;37mRPI [1;34mraspberrypi.cpp:1476 [0mRegistered camera /base/soc/i2c0mux/i2c@1/imx477@1a to Unicam device /dev/media4 and ISP device /dev/media1
+Stream configuration adjusted
+[0:22:58.358642344] [1615] [1;32m INFO [1;37mCamera [1;34mcamera.cpp:1028 [0mconfiguring streams: (0) 4056x3040-BGR888 (1) 4056x3040-SBGGR12_CSI2P
+[0:22:58.358929878] [1616] [1;32m INFO [1;37mRPI [1;34mraspberrypi.cpp:851 [0mSensor: /base/soc/i2c0mux/i2c@1/imx477@1a - Selected sensor format: 4056x3040-SBGGR12_1X12 - Selected unicam format: 4056x3040-pBCC
+Still capture image received
+Connected to home349728106.1and1-data.host.
+sftp> put images/current.jpg
+Uploading images/current.jpg to /current.jpg
+sftp> bye
+Preview window unavailable
+[0:23:30.873891650] [1637] [1;32m INFO [1;37mCamera [1;34mcamera_manager.cpp:299 [0mlibcamera v0.0.4+22-923f5d70
+[0:23:30.908640217] [1638] [1;32m INFO [1;37mRPI [1;34mraspberrypi.cpp:1476 [0mRegistered camera /base/soc/i2c0mux/i2c@1/imx477@1a to Unicam device /dev/media4 and ISP device /dev/media1
+Stream configuration adjusted
+[0:23:30.909788632] [1637] [1;32m INFO [1;37mCamera [1;34mcamera.cpp:1028 [0mconfiguring streams: (0) 4056x3040-BGR888 (1) 4056x3040-SBGGR12_CSI2P
+[0:23:30.910074463] [1638] [1;32m INFO [1;37mRPI [1;34mraspberrypi.cpp:851 [0mSensor: /base/soc/i2c0mux/i2c@1/imx477@1a - Selected sensor format: 4056x3040-SBGGR12_1X12 - Selected unicam format: 4056x3040-pBCC
+Still capture image received
+Connected to home349728106.1and1-data.host.
+sftp> put images/current.jpg
+Uploading images/current.jpg to /current.jpg
+sftp> bye
+Preview window unavailable
+[0:24:03.509356757] [1660] [1;32m INFO [1;37mCamera [1;34mcamera_manager.cpp:299 [0mlibcamera v0.0.4+22-923f5d70
+[0:24:03.543863505] [1661] [1;32m INFO [1;37mRPI [1;34mraspberrypi.cpp:1476 [0mRegistered camera /base/soc/i2c0mux/i2c@1/imx477@1a to Unicam device /dev/media4 and ISP device /dev/media1
+Stream configuration adjusted
+[0:24:03.545228430] [1660] [1;32m INFO [1;37mCamera [1;34mcamera.cpp:1028 [0mconfiguring streams: (0) 4056x3040-BGR888 (1) 4056x3040-SBGGR12_CSI2P
+[0:24:03.545520467] [1661] [1;32m INFO [1;37mRPI [1;34mraspberrypi.cpp:851 [0mSensor: /base/soc/i2c0mux/i2c@1/imx477@1a - Selected sensor format: 4056x3040-SBGGR12_1X12 - Selected unicam format: 4056x3040-pBCC
+Still capture image received
+Connected to home349728106.1and1-data.host.
+sftp> put images/current.jpg
+Uploading images/current.jpg to /current.jpg
+sftp> bye
+Preview window unavailable
+[0:24:36.337491758] [1682] [1;32m INFO [1;37mCamera [1;34mcamera_manager.cpp:299 [0mlibcamera v0.0.4+22-923f5d70
+[0:24:36.371399995] [1683] [1;32m INFO [1;37mRPI [1;34mraspberrypi.cpp:1476 [0mRegistered camera /base/soc/i2c0mux/i2c@1/imx477@1a to Unicam device /dev/media4 and ISP device /dev/media1
+Stream configuration adjusted
+[0:24:36.372610587] [1682] [1;32m INFO [1;37mCamera [1;34mcamera.cpp:1028 [0mconfiguring streams: (0) 4056x3040-BGR888 (1) 4056x3040-SBGGR12_CSI2P
+[0:24:36.372895883] [1683] [1;32m INFO [1;37mRPI [1;34mraspberrypi.cpp:851 [0mSensor: /base/soc/i2c0mux/i2c@1/imx477@1a - Selected sensor format: 4056x3040-SBGGR12_1X12 - Selected unicam format: 4056x3040-pBCC
+Still capture image received
+Connected to home349728106.1and1-data.host.
+sftp> put images/current.jpg
+Uploading images/current.jpg to /current.jpg
+sftp> bye
+Preview window unavailable
+[0:25:08.840433694] [1705] [1;32m INFO [1;37mCamera [1;34mcamera_manager.cpp:299 [0mlibcamera v0.0.4+22-923f5d70
+[0:25:08.875070441] [1706] [1;32m INFO [1;37mRPI [1;34mraspberrypi.cpp:1476 [0mRegistered camera /base/soc/i2c0mux/i2c@1/imx477@1a to Unicam device /dev/media4 and ISP device /dev/media1
+Stream configuration adjusted
+[0:25:08.876293420] [1705] [1;32m INFO [1;37mCamera [1;34mcamera.cpp:1028 [0mconfiguring streams: (0) 4056x3040-BGR888 (1) 4056x3040-SBGGR12_CSI2P
+[0:25:08.876580790] [1706] [1;32m INFO [1;37mRPI [1;34mraspberrypi.cpp:851 [0mSensor: /base/soc/i2c0mux/i2c@1/imx477@1a - Selected sensor format: 4056x3040-SBGGR12_1X12 - Selected unicam format: 4056x3040-pBCC
+Still capture image received
+Connected to home349728106.1and1-data.host.
+sftp> put images/current.jpg
+Uploading images/current.jpg to /current.jpg
+sftp> bye
+Preview window unavailable
+[0:25:42.102182710] [1728] [1;32m INFO [1;37mCamera [1;34mcamera_manager.cpp:299 [0mlibcamera v0.0.4+22-923f5d70
+[0:25:42.136707064] [1729] [1;32m INFO [1;37mRPI [1;34mraspberrypi.cpp:1476 [0mRegistered camera /base/soc/i2c0mux/i2c@1/imx477@1a to Unicam device /dev/media4 and ISP device /dev/media1
+Stream configuration adjusted
+[0:25:42.137841709] [1728] [1;32m INFO [1;37mCamera [1;34mcamera.cpp:1028 [0mconfiguring streams: (0) 4056x3040-BGR888 (1) 4056x3040-SBGGR12_CSI2P
+[0:25:42.138129171] [1729] [1;32m INFO [1;37mRPI [1;34mraspberrypi.cpp:851 [0mSensor: /base/soc/i2c0mux/i2c@1/imx477@1a - Selected sensor format: 4056x3040-SBGGR12_1X12 - Selected unicam format: 4056x3040-pBCC
+Still capture image received
+Connected to home349728106.1and1-data.host.
+sftp> put images/current.jpg
+Uploading images/current.jpg to /current.jpg
+sftp> bye
+Preview window unavailable
+[0:26:15.434050489] [1751] [1;32m INFO [1;37mCamera [1;34mcamera_manager.cpp:299 [0mlibcamera v0.0.4+22-923f5d70
+[0:26:15.468732359] [1752] [1;32m INFO [1;37mRPI [1;34mraspberrypi.cpp:1476 [0mRegistered camera /base/soc/i2c0mux/i2c@1/imx477@1a to Unicam device /dev/media4 and ISP device /dev/media1
+Stream configuration adjusted
+[0:26:15.469871541] [1751] [1;32m INFO [1;37mCamera [1;34mcamera.cpp:1028 [0mconfiguring streams: (0) 4056x3040-BGR888 (1) 4056x3040-SBGGR12_CSI2P
+[0:26:15.470156225] [1752] [1;32m INFO [1;37mRPI [1;34mraspberrypi.cpp:851 [0mSensor: /base/soc/i2c0mux/i2c@1/imx477@1a - Selected sensor format: 4056x3040-SBGGR12_1X12 - Selected unicam format: 4056x3040-pBCC
+Still capture image received
+Connected to home349728106.1and1-data.host.
+sftp> put images/current.jpg
+Uploading images/current.jpg to /current.jpg
+sftp> bye
+Preview window unavailable
+[0:26:47.972047047] [1773] [1;32m INFO [1;37mCamera [1;34mcamera_manager.cpp:299 [0mlibcamera v0.0.4+22-923f5d70
+[0:26:48.006685399] [1774] [1;32m INFO [1;37mRPI [1;34mraspberrypi.cpp:1476 [0mRegistered camera /base/soc/i2c0mux/i2c@1/imx477@1a to Unicam device /dev/media4 and ISP device /dev/media1
+Stream configuration adjusted
+[0:26:48.007837376] [1773] [1;32m INFO [1;37mCamera [1;34mcamera.cpp:1028 [0mconfiguring streams: (0) 4056x3040-BGR888 (1) 4056x3040-SBGGR12_CSI2P
+[0:26:48.008149746] [1774] [1;32m INFO [1;37mRPI [1;34mraspberrypi.cpp:851 [0mSensor: /base/soc/i2c0mux/i2c@1/imx477@1a - Selected sensor format: 4056x3040-SBGGR12_1X12 - Selected unicam format: 4056x3040-pBCC
+Still capture image received
+Connected to home349728106.1and1-data.host.
+sftp> put images/current.jpg
+Uploading images/current.jpg to /current.jpg
+sftp> bye
+Preview window unavailable
+[0:27:26.295909933] [1797] [1;32m INFO [1;37mCamera [1;34mcamera_manager.cpp:299 [0mlibcamera v0.0.4+22-923f5d70
+[0:27:26.330711322] [1798] [1;32m INFO [1;37mRPI [1;34mraspberrypi.cpp:1476 [0mRegistered camera /base/soc/i2c0mux/i2c@1/imx477@1a to Unicam device /dev/media4 and ISP device /dev/media1
+Stream configuration adjusted
+[0:27:26.331859669] [1797] [1;32m INFO [1;37mCamera [1;34mcamera.cpp:1028 [0mconfiguring streams: (0) 4056x3040-BGR888 (1) 4056x3040-SBGGR12_CSI2P
+[0:27:26.332314556] [1798] [1;32m INFO [1;37mRPI [1;34mraspberrypi.cpp:851 [0mSensor: /base/soc/i2c0mux/i2c@1/imx477@1a - Selected sensor format: 4056x3040-SBGGR12_1X12 - Selected unicam format: 4056x3040-pBCC
+Still capture image received
+Connected to home349728106.1and1-data.host.
+sftp> put images/current.jpg
+Uploading images/current.jpg to /current.jpg
+sftp> bye
+Preview window unavailable
+[0:27:58.955763289] [1819] [1;32m INFO [1;37mCamera [1;34mcamera_manager.cpp:299 [0mlibcamera v0.0.4+22-923f5d70
+[0:27:58.989784131] [1820] [1;32m INFO [1;37mRPI [1;34mraspberrypi.cpp:1476 [0mRegistered camera /base/soc/i2c0mux/i2c@1/imx477@1a to Unicam device /dev/media4 and ISP device /dev/media1
+Stream configuration adjusted
+[0:27:58.990914719] [1819] [1;32m INFO [1;37mCamera [1;34mcamera.cpp:1028 [0mconfiguring streams: (0) 4056x3040-BGR888 (1) 4056x3040-SBGGR12_CSI2P
+[0:27:58.991206143] [1820] [1;32m INFO [1;37mRPI [1;34mraspberrypi.cpp:851 [0mSensor: /base/soc/i2c0mux/i2c@1/imx477@1a - Selected sensor format: 4056x3040-SBGGR12_1X12 - Selected unicam format: 4056x3040-pBCC
+Still capture image received
+Connected to home349728106.1and1-data.host.
+sftp> put images/current.jpg
+Uploading images/current.jpg to /current.jpg
+sftp> bye
+Preview window unavailable
+[0:28:31.631370318] [1842] [1;32m INFO [1;37mCamera [1;34mcamera_manager.cpp:299 [0mlibcamera v0.0.4+22-923f5d70
+[0:28:31.666359866] [1843] [1;32m INFO [1;37mRPI [1;34mraspberrypi.cpp:1476 [0mRegistered camera /base/soc/i2c0mux/i2c@1/imx477@1a to Unicam device /dev/media4 and ISP device /dev/media1
+Stream configuration adjusted
+[0:28:31.667533971] [1842] [1;32m INFO [1;37mCamera [1;34mcamera.cpp:1028 [0mconfiguring streams: (0) 4056x3040-BGR888 (1) 4056x3040-SBGGR12_CSI2P
+[0:28:31.667820914] [1843] [1;32m INFO [1;37mRPI [1;34mraspberrypi.cpp:851 [0mSensor: /base/soc/i2c0mux/i2c@1/imx477@1a - Selected sensor format: 4056x3040-SBGGR12_1X12 - Selected unicam format: 4056x3040-pBCC
+Still capture image received
+Connected to home349728106.1and1-data.host.
+sftp> put images/current.jpg
+Uploading images/current.jpg to /current.jpg
+sftp> bye
+Preview window unavailable
+[0:29:04.251641823] [1865] [1;32m INFO [1;37mCamera [1;34mcamera_manager.cpp:299 [0mlibcamera v0.0.4+22-923f5d70
+[0:29:04.285898919] [1866] [1;32m INFO [1;37mRPI [1;34mraspberrypi.cpp:1476 [0mRegistered camera /base/soc/i2c0mux/i2c@1/imx477@1a to Unicam device /dev/media4 and ISP device /dev/media1
+Stream configuration adjusted
+[0:29:04.287032487] [1865] [1;32m INFO [1;37mCamera [1;34mcamera.cpp:1028 [0mconfiguring streams: (0) 4056x3040-BGR888 (1) 4056x3040-SBGGR12_CSI2P
+[0:29:04.287322319] [1866] [1;32m INFO [1;37mRPI [1;34mraspberrypi.cpp:851 [0mSensor: /base/soc/i2c0mux/i2c@1/imx477@1a - Selected sensor format: 4056x3040-SBGGR12_1X12 - Selected unicam format: 4056x3040-pBCC
+Still capture image received
+Connected to home349728106.1and1-data.host.
+sftp> put images/current.jpg
+Uploading images/current.jpg to /current.jpg
+sftp> bye
+Preview window unavailable
+[0:29:36.746845730] [1887] [1;32m INFO [1;37mCamera [1;34mcamera_manager.cpp:299 [0mlibcamera v0.0.4+22-923f5d70
+[0:29:36.781246798] [1888] [1;32m INFO [1;37mRPI [1;34mraspberrypi.cpp:1476 [0mRegistered camera /base/soc/i2c0mux/i2c@1/imx477@1a to Unicam device /dev/media4 and ISP device /dev/media1
+Stream configuration adjusted
+[0:29:36.782416180] [1887] [1;32m INFO [1;37mCamera [1;34mcamera.cpp:1028 [0mconfiguring streams: (0) 4056x3040-BGR888 (1) 4056x3040-SBGGR12_CSI2P
+[0:29:36.782700678] [1888] [1;32m INFO [1;37mRPI [1;34mraspberrypi.cpp:851 [0mSensor: /base/soc/i2c0mux/i2c@1/imx477@1a - Selected sensor format: 4056x3040-SBGGR12_1X12 - Selected unicam format: 4056x3040-pBCC
+Still capture image received
